@@ -41,23 +41,23 @@ function writeToFile(fileName, data) {
 ${data.description}
 
 ## Table of Contents
-- [Installation](#Installation Instructions)
-- [Usage](#Usage Information)
-- [Contribution](#Contribution Guidelines)
-- [Test](#Test Instructions)
+- [Installation](#Installation_Instructions)
+- [Usage](#Usage_Information)
+- [Contribution](#Contribution_Guidelines)
+- [Test](#Test_Instructions)
 - [License](#License)
 - [Questions](#Questions)
 
-## Installation Instructions
+## Installation_Instructions
 ${data.installation}
 
-## Usage Information
+## Usage_Information
 ${data.usage}
 
-## Contribution Guidelines
+## Contribution_Guidelines
 ${data.contribution}
 
-## Test Instructions
+## Test_Instructions
 ${data.test}
 
 ## License
