@@ -4,23 +4,23 @@
 This application uses inquirer to construct a ReadMe.md file, using the answers that a user would input into a series of prompts
 
 ## Table of Contents
-- [Installation](#Installation Instructions)
-- [Usage](#Usage Information)
-- [Contribution](#Contribution Guidelines)
-- [Test](#Test Instructions)
+- [Installation](#Installation_Instructions)
+- [Usage](#Usage_Information)
+- [Contribution](#Contribution_Guidelines)
+- [Test](#Test_Instructions)
 - [License](#License)
 - [Questions](#Questions)
 
-## Installation Instructions
+## Installation_Instructions
 Run npm install
 
-## Usage Information
+## Usage_Information
 Run npm start
 
-## Contribution Guidelines
+## Contribution_Guidelines
 https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.txt
 
-## Test Instructions
+## Test_Instructions
 Simply test by running project with desired test inputs
 
 ## License
